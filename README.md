@@ -5,3 +5,5 @@ es un repositorio. propiedad de julito. y de nadie más.
 
 Símbolo del dólar pegado a los bordes es para una fórmula en formato Latex
 $x = y^2$
+
+TAMOS CAMBIANDO COSAS OTRA VEZ
